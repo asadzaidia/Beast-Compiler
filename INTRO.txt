@@ -1,0 +1,14 @@
+This compiler is named as "Beast"
+Developed By Syed Asad Abbas in 3rd year of University by Using Java.
+
+It has all the programming comcepts like loops,function definition,function calling,
+expression,decleration,conditional statements,logical operators,
+Type Modifiers,Access Modifiers..... and much more
+
+for any query email me:
+asadzaidi625@gmail.com
+
+
+
+It is a complete compiler with four phases lexical,syntex,
+semmantic,ICG.

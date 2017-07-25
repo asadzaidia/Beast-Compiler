@@ -1,0 +1,76 @@
+chr c;
+strc A{
+	integer x;
+	chr a;	
+
+};
+strc B{
+	integer y;
+	chr b;
+		
+
+};
+#open integer func(integer a);
+#open void func2(chr a_str b_integer c);
+
+start{
+	
+
+	integer a_k_r_t_y;
+	flt u_v;
+	open integer z;	
+	while(k<u){
+
+		integer b;
+		a=b;
+
+		}
+
+	while(a<k AND k<v){
+	
+		integer f;
+		z PE f;
+	}
+
+	lock(k=2;k<z;k INC){
+
+		continue 
+	}
+	
+
+	integer n=3+a+k+v;
+	integer asad=a+k+r+y;
+	integer bilal=u+v+asad;
+
+` v=call func(3);
+
+	call func2('x'_"zaidi"_asad);
+
+	strc A a1_t2;
+	strc B b1;
+	
+
+	integer e_r;
+	chr q_t;
+	a1@x=e;
+	a1@a=q;
+	b1@b=i;
+
+	a1@x=INC e;
+  	a1@x=DEC t;
+	b4@b=t;	
+	INC t2@x=DEC t;
+
+
+}
+
+open integer func(integer a){
+
+
+}
+
+open void func2(chr a_str b_integer c){
+
+}
+
+
